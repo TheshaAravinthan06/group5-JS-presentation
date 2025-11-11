@@ -43,3 +43,21 @@ let theSecret = {
   languages        :["English", "Tamil", "Hindi", "Spanish", "French" ,"english"], 
 };
 console.log(theSecret);
+
+
+
+
+let name=true;
+if(name){
+  console.log("the value is true");
+} else {
+  console.log("the value is false");
+}
+ let num1=15;
+  let num2=10;
+  if(num1>num2){
+    console.log("num1 is greater than num2");
+  } else {
+    console.log("num2 is greater than num1");
+  }git checkout -b feature/thivi/object
+
