@@ -6,8 +6,8 @@ let jurassicWorldRebirth = {
   releaseYear      : 2025,
   director: {
     firstName:"Nike",
-    lastName:"Anne"
-  },        
+    lastName:"Anna"
+  },       
   isReleased       : true,
   leadCast         : ["Scarlett Johansson", "Jonathan Bailey", "Mahershala Ali"],
   plotSummary      : "A team goes to a remote island to extract dinosaur DNA for medicine, but things go wrong.",
